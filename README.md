@@ -3,7 +3,7 @@
 - 🏫    Computer Science Engineering student at the University of Florida 
 - 💬    Connect with me on <a href="https://www.linkedin.com/in/imjoelrios/" target="_blank">LinkedIn</a> anytime!
 - 📫    Reach out at **imjoelrios@gmail.com** 
-- 🌐    Check out more info about me at <a href="https://www.linkedin.com/in/imjoelrios/" target="_blank">joelrios.com</a>. 
+- 🌐    Check out more info about me at <a href="http://joelrios.com/" target="_blank">joelrios.com</a>. 
 
 <!-- 
 <p align="left"> 
